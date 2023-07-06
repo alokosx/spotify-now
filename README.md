@@ -7,7 +7,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+<br><p align="center">
+[Fork](https://github.com/alokosx/alokosx/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repo to recreate!<br><br>
   [![Visits](https://komarev.com/ghpvc/?username=alokosx&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/alokosx)
 </p>
   </td>
